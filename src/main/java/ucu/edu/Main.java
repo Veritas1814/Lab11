@@ -6,7 +6,6 @@ import ucu.edu.task2.MailInfo;
 import ucu.edu.task2.MailSender;
 import ucu.edu.task2.MailCode;
 
-
 public class Main {
     public static void main(String[] args) {
         
